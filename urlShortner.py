@@ -1,4 +1,4 @@
 import pyshorteners
 
 
-url_to_shorten =
+url_to_shorten = input("Enter the URL you would like to shorten")
